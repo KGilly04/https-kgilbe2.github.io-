@@ -1,2 +1,5 @@
 # https-kgilbe2.github.io-
-IT 304 Website
+
+My name is Kenny Gilbert
+Hello, I am a junior in the BS IT program. I enjoy studying networking and playing soccer
+Some of my hobbies are lifting, video games, camping, and sports
